@@ -1,0 +1,3 @@
+import SystemSound
+
+AppRoot.main()
